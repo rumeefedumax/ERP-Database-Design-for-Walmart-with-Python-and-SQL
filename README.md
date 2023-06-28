@@ -268,4 +268,4 @@ Steps:
 
  
 <p><img src="https://drive.google.com/uc?export=download&id=1cshPoJrHx2WhitEYHyl_ClRrK8Tg0MSP" alt></p> 
-Figure 12: Weekly Sales plot for specific store and department
+Figure : Weekly Sales plot for specific store and department
